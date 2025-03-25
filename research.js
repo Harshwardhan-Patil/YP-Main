@@ -3,20 +3,29 @@ let publications = [
     {
         id: 1,
         title: "Sentiment Analysis of YouTube Comments",
-        category: "journal",
-        authors: ["Dr. John Smith", "Emily Chen"],
+        category: "",
+        authors: [],
         year: 2023,
-        abstract: "A comprehensive study on applying machine learning techniques to enhance cybersecurity measures.",
+        // abstract: "A comprehensive study on applying machine learning techniques to enhance cybersecurity measures.",
         filename: "Research paper/Sentiment Analysis of YouTube Comments..pdf"
     },
     {
         id: 2,
-        title: "Quantum Computing Breakthroughs",
-        category: "conference",
-        authors: ["Dr. Alice Wong", "Michael Rodriguez"],
+        title: "Chatboat research paper",
+        category: "",
+        authors: [],
         year: 2022,
-        abstract: "Recent advancements in quantum computing and potential applications.",
-        filename: "quantum_computing.pdf"
+        // abstract: "Recent advancements in quantum computing and potential applications.",
+        filename: "Research paper/Chatboat research paper.pdf"
+    },
+    {
+        id: 2,
+        title: "YLP research paper certificate",
+        category: "certificate",
+        authors: [],
+        year: 2022,
+        // abstract: "Recent advancements in quantum computing and potential applications.",
+        filename: "Research paper/YLP research paper certificate.pdf"
     }
     // Add more sample publications
 ];
